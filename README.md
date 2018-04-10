@@ -1,4 +1,4 @@
-# Página manual em PHP para envio de contato pela forma
+# Página manual em PHP para envio de contato
 Pela grande dificuldade em manipular a inclusão de dados no formulário de contato padrão da Loja PrestaShop criei esse arquivo simples porém faz o que precisa ser feito.
 
 # Instalação
